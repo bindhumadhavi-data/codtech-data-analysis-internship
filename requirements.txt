@@ -1,0 +1,13 @@
+pyspark
+dask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+dash
+nltk
+spacy
+transformers
+jupyter
